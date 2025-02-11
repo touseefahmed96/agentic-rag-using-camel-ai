@@ -1,3 +1,4 @@
 camel-ai[all]
 starlette
 nest_asyncio
+streamlit
